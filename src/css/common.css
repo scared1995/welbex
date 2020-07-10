@@ -1,0 +1,29 @@
+body{
+    padding: 30px;
+}
+
+.row-hidden{
+    display: none;
+}
+
+input{
+    display: none;
+}
+
+.form-control {
+    width: auto;
+}
+.container-sort {
+    display: flex;
+    justify-content: space-between;
+    max-width: 700px;
+}
+.clear-button {
+    margin: 20px 0;
+}
+.inputHide.form-control{
+    display: none;
+}
+.sort {
+    display: none;
+}
